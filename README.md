@@ -1,6 +1,6 @@
 ```md
 git clone https://github.com/JackShalom667/module-JWT.git
-cd jwt-auth-api
+cd module-JWT
 composer install
 cp .env.example .env
 php artisan key:generate
