@@ -1,3 +1,4 @@
+```md
 git clone https://github.com/JackShalom667/module-JWT.git
 cd jwt-auth-api
 composer install
