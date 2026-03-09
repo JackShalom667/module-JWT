@@ -19,7 +19,7 @@ Projet conçu pour démontrer des compétences en backend, sécurité et tests a
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/TON_USERNAME/jwt-auth-api.git
+git clone https://github.com/JackShalom667/module-JWT.git
 cd jwt-auth-api
 composer install
 cp .env.example .env
